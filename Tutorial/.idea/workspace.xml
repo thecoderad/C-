@@ -18,10 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9408bb00-12f4-4ec4-b0a6-0bca0356e8f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1st.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1st.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1 Practice.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2nd.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "C/C++ File.1st.cpp.executor": "Run",
+    "C/C++ File.2nd Practice.cpp.executor": "Run",
     "C/C++ File.2nd.cpp.executor": "Run",
     "C/C++ File.Practice.cpp (1).executor": "Run",
     "C/C++ File.Practice.cpp.executor": "Run",
@@ -77,9 +75,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.2nd.cpp">
+  <component name="RunManager" selected="C/C++ File.2nd Practice.cpp">
     <configuration name="1st.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="1st.cpp" CONFIG_NAME="1st.cpp">
       <option name="sourceFile" value="1st.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2nd Practice.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="2nd Practice.cpp" CONFIG_NAME="2nd Practice.cpp">
+      <option name="sourceFile" value="2nd Practice.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -104,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.2nd Practice.cpp" />
         <item itemvalue="C/C++ File.2nd.cpp" />
         <item itemvalue="C/C++ File.Practice.cpp (1)" />
         <item itemvalue="C/C++ File.1st.cpp" />
@@ -121,7 +126,7 @@
       <workItem from="1749126413753" duration="6000" />
       <workItem from="1749126590493" duration="480000" />
       <workItem from="1749128721530" duration="369000" />
-      <workItem from="1749138242631" duration="1672000" />
+      <workItem from="1749138242631" duration="2858000" />
     </task>
     <servers />
   </component>

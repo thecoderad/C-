@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-using namespace std;
 
 int main() {
     std::cout << "Enter two numbers" << std::endl;
