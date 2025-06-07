@@ -18,9 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9408bb00-12f4-4ec4-b0a6-0bca0356e8f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial 1/1 Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 1/Practice.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial 2/2nd Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 2/Practice.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial 3/3rd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 3/3rd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial 4/4th.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 4/4th.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
     "C/C++ File.2nd Practice.cpp.executor": "Run",
     "C/C++ File.2nd.cpp.executor": "Run",
     "C/C++ File.3rd.cpp.executor": "Run",
+    "C/C++ File.4th.cpp.executor": "Run",
     "C/C++ File.Practice.cpp (1).executor": "Run",
     "C/C++ File.Practice.cpp.executor": "Run",
     "C/C++ File.homework.cpp.executor": "Run",
@@ -79,15 +78,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Practice.cpp">
-    <configuration name="2nd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="2nd.cpp" CONFIG_NAME="2nd.cpp">
-      <option name="sourceFile" value="2nd.cpp" />
+  <component name="RunManager" selected="C/C++ File.4th.cpp">
+    <configuration name="3rd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="3rd.cpp" CONFIG_NAME="3rd.cpp">
+      <option name="sourceFile" value="Tutorial 3\3rd.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="3rd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="3rd.cpp" CONFIG_NAME="3rd.cpp">
-      <option name="sourceFile" value="Tutorial 3\3rd.cpp" />
+    <configuration name="4th.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="4th.cpp" CONFIG_NAME="4th.cpp">
+      <option name="sourceFile" value="Tutorial 4\4th.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.4th.cpp" />
         <item itemvalue="C/C++ File.Practice.cpp" />
         <item itemvalue="C/C++ File.homework.cpp" />
         <item itemvalue="C/C++ File.Practice.cpp (1)" />
         <item itemvalue="C/C++ File.3rd.cpp" />
-        <item itemvalue="C/C++ File.2nd.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +133,7 @@
       <workItem from="1749308693719" duration="71000" />
       <workItem from="1749312035278" duration="765000" />
       <workItem from="1749312840653" duration="75000" />
-      <workItem from="1749312951867" duration="901000" />
+      <workItem from="1749312951867" duration="1667000" />
     </task>
     <servers />
   </component>
