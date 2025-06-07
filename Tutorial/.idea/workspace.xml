@@ -17,8 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9408bb00-12f4-4ec4-b0a6-0bca0356e8f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2nd Practice.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial 1/1 Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 1/Practice.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial 2/2nd Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 2/Practice.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial 3/3rd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial 3/3rd.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,48 +50,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;C/C++ File.1st.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.2nd Practice.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.2nd.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Practice.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.1st.cpp.executor": "Run",
+    "C/C++ File.2nd Practice.cpp.executor": "Run",
+    "C/C++ File.2nd.cpp.executor": "Run",
+    "C/C++ File.3rd.cpp.executor": "Run",
+    "C/C++ File.Practice.cpp (1).executor": "Run",
+    "C/C++ File.Practice.cpp.executor": "Run",
+    "C/C++ File.homework.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.2nd Practice.cpp">
-    <configuration name="1st.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="1st.cpp" CONFIG_NAME="1st.cpp">
-      <option name="sourceFile" value="1st.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="2nd Practice.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="2nd Practice.cpp" CONFIG_NAME="2nd Practice.cpp">
-      <option name="sourceFile" value="2nd Practice.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Practice.cpp">
     <configuration name="2nd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="2nd.cpp" CONFIG_NAME="2nd.cpp">
       <option name="sourceFile" value="2nd.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3rd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="3rd.cpp" CONFIG_NAME="3rd.cpp">
+      <option name="sourceFile" value="Tutorial 3\3rd.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,18 +99,24 @@
       </method>
     </configuration>
     <configuration name="Practice.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="Practice.cpp" CONFIG_NAME="Practice.cpp">
-      <option name="sourceFile" value="Practice.cpp" />
+      <option name="sourceFile" value="Tutorial 3\Practice.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tutorial" TARGET_NAME="homework.cpp" CONFIG_NAME="homework.cpp">
+      <option name="sourceFile" value="Tutorial 3\homework.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.2nd Practice.cpp" />
-        <item itemvalue="C/C++ File.2nd.cpp" />
-        <item itemvalue="C/C++ File.Practice.cpp (1)" />
-        <item itemvalue="C/C++ File.1st.cpp" />
         <item itemvalue="C/C++ File.Practice.cpp" />
+        <item itemvalue="C/C++ File.homework.cpp" />
+        <item itemvalue="C/C++ File.Practice.cpp (1)" />
+        <item itemvalue="C/C++ File.3rd.cpp" />
+        <item itemvalue="C/C++ File.2nd.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +132,9 @@
       <workItem from="1749128721530" duration="369000" />
       <workItem from="1749138242631" duration="2858000" />
       <workItem from="1749308693719" duration="71000" />
+      <workItem from="1749312035278" duration="765000" />
+      <workItem from="1749312840653" duration="75000" />
+      <workItem from="1749312951867" duration="901000" />
     </task>
     <servers />
   </component>
